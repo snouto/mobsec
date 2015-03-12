@@ -1,0 +1,3 @@
+com\mobsec\EngineLauncher.class
+com\mobsec\engine\MobSecEngine.class
+com\mobsec\algorithm\MD5Algorithm.class
